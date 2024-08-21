@@ -1,18 +1,10 @@
 ## Gus Vietze
 
 **` Aspiring Data Scientist`**
+<img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+<br>
+Im a recent graduate of the University of Rochester looking for work as a Data Analyst or Data Scientist. Finsish about me here 
 
-Im a recent graduate of the University of Rochester looking for work as a Data Analyst or Data Scientist. 
-
-'' Work Experiance 
-
-
-
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/gus-vietze-37575a225/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
 
 ### 🧰 Languages and Tools
 
@@ -34,5 +26,12 @@ Im a recent graduate of the University of Rochester looking for work as a Data A
 <br />
 
 #
-
+## Contact Me
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/gus-vietze-37575a225/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+<a href="https://www.linkedin.com/in/gus-vietze-37575a225/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;****
+</p>
 
