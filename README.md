@@ -7,7 +7,7 @@
 
 
 
-Im a recent graduate of the University of Rochester looking for work as a Data Analyst or Data Scientist. Finsish about me here 
+Im a recent graduate of the University of Rochester looking for work as a Data Analyst or Data Scientist. 
 
 
 ---
