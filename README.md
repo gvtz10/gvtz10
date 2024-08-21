@@ -10,6 +10,7 @@
 Im a recent graduate of the University of Rochester looking for work as a Data Analyst or Data Scientist. Finsish about me here 
 
 
+---
 ### 🧰 Languages and Tools
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/sqlitebrowser.png" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -36,6 +37,6 @@ Im a recent graduate of the University of Rochester looking for work as a Data A
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=gvtz10&show_icons=true&theme=gruvbox)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gvtz10&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
