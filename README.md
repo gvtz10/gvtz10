@@ -11,9 +11,6 @@ Hi, I’m Gus Vietze, a recent graduate from the University of Rochester with a 
 
 Outside of work, I enjoy playing chess, soccer, and camping. 
 
-<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="200">
-<br><br>
-
 ---
 ### 🧰 Languages and Tools
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/sqlitebrowser.png" />
