@@ -35,8 +35,3 @@ Im a recent graduate of the University of Rochester looking for work as a Data A
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-### 📊 Stats
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gvtz10&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
