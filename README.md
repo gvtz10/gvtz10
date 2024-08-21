@@ -7,7 +7,7 @@
 
 
 
-Im a recent graduate of the University of Rochester looking for work as a Data Analyst or Data Scientist. 
+Im a recent graduate of the University of Rochester looking for work as a Data Analyst, Data Scientist, or Software Engineer. 
 
 
 ---
