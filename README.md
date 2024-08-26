@@ -29,8 +29,7 @@ Outside of work, I enjoy playing chess, soccer, and camping.
 #
 ## Socail Media
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gus-vietze-37575a225/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
+<div align="center">
+ <a href="https://www.linkedin.com/in/gus-vietze-37575a225/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
