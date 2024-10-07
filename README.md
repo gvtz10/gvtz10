@@ -5,7 +5,7 @@
 
 
 
-Hi, I’m Gus Vietze, a recent graduate from the University of Rochester with a dual degree in Mathematics and Data Science. My academic work and hands-on experience as a Data Analyst at M&T Bank sparked my interest for crafting impactful data-driven solutions. I have a strong foundation in data analysis, programming, statistics, and machine learning, and I’m eager to further refine my skills in new professional challenges. I’m currently seeking opportunities as a data analyst or software developer.
+Hi, I’m Gus Vietze, a recent graduate from the University of Rochester with a dual degree in Mathematics and Data Science. My academic work and hands-on experience as a Data Analyst at M&T Bank sparked my interest for crafting impactful data-driven solutions. I have a strong foundation in data analysis, programming, statistics, and machine learning, and I’m eager to further refine my skills in new professional challenges. I’m currently seeking opportunities as a data analyst.
 
 Outside of work, I enjoy playing chess, soccer, and camping. 
 
